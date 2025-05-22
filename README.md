@@ -1,17 +1,17 @@
 # Music-Recommendation-System
 
 ## Problem Definition
-The Context:
+*The Context:*
 
 Why is this problem important to solve?
 
 With the growing number of songs available, manually searching for preferred music is overwhelming. A recommendation system enhances user experience by providing personalized music suggestions. Platforms like Spotify, Apple Music, and YouTube Music depend on smart recommendation systems to increase engagement and retention. Better recommendations mean higher user satisfaction and revenue for streaming services.
 
-The objective:
+*The objective:*
 
 The goal is to buld a recommendation system to propose the top 10 songs for user based on the likelihoodof listening to those songs.
 
-The key questions:
+*The key questions:*
 
 
 What are the key questions that need to be answered?
@@ -28,7 +28,7 @@ How can we handle new used with little or no interaction history (cold start pro
 How do we evaluate the effectivness of our model's recommnedations? Will it base on accuracy, Novelty, etc.?
 
 
-The problem formulation:
+*The problem formulation:*
 
 What is it that we are trying to solve using data science?
 
